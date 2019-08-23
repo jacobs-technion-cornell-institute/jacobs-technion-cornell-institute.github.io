@@ -11,7 +11,7 @@ The Jacobs Technion-Cornell Institute at Cornell Tech was founded as a joint aca
 # What is Urban Tech?
 Urban Tech is the emerging interdisciplinary study of how to make cities and urban spaces more connected, livable, and efficient. Urban Tech encompasses the following domains:  clean-tech and sustainability, co-living and co-working, community management technology, construction-tech, property-tech, energy and utilities, logistics and delivery, mobility and transportation, smart cities and gov-tech.
 
-# Technion-Cornell Dual Master’s Degrees in Urban Tech
+# Technion-Cornell Dual Master’s Degree in Urban Tech
 Our technical, dual-degree program educates a new generation of software engineers, product managers, planners, decision-makers, etc. to realize the full utility of urban tech.
 
 Our project-based, two-year curriculum centers on computer science and engineering and also draws on the disciplines of economics, sociology, entrepreneurship, and design.
