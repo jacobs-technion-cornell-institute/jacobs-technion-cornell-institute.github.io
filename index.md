@@ -20,7 +20,7 @@ The program provides exceptional preparation for myriad career paths in academia
 
 <a href="http://apply.tech.cornell.edu">Apply here</a>.
 
-# People
+# Team
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrGVliWT1g423ijc?backgroundColor=purple&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 # Other Urban Tech Activities
