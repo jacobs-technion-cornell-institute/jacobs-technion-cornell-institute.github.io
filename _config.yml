@@ -1,2 +1,5 @@
 theme: jekyll-theme-primer
 title: Urban Tech Hub at the Jacobs Technion-Cornell Institute
+url: "http://jacobs-technion-cornell-institute.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
