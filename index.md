@@ -5,6 +5,7 @@ title: Urban Tech Hub
 <style>
 body {
   border-left: thick solid #ff0000;
+  margin-left: 10px;
 }
 </style>
 
