@@ -9,7 +9,9 @@ body {
 }
 </style>
 
-Welcome.
+
+{{ 'welcome' | upcase }}
+
 <img src="http://urbantech.cornelltech.io/hub-drawing.png" alt="urban tech hub drawing"/>
 
 # About the Jacobs Technion-Cornell Institute at Cornell Tech
