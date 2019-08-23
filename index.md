@@ -5,7 +5,13 @@ title: Urban Tech Hub
 Welcome.
 
 # About the Jacobs Technion-Cornell Institute at Cornell Tech
-The Jacobs Technion-Cornell Institute at Cornell Tech was founded as a joint academic venture between Cornell University and the Technion-Israel Institute of Technology to be a locus of academic experimentation and innovative approaches to research, entrepreneurship and education. The Jacobs Institute emphasizes a transdisciplinary view of science and encourages translational research that ultimately serves the worldwide common good, through a set of industry-focused “hubs” that address contemporary social and economic need around which research and academic programs are centered.
+<style type="text/css">
+.hub-drawing {
+    background-image: url('http://urbantech.cornelltech.io/hub-drawing.png');
+}
+</style>
+
+<div class="hub-drawing">The Jacobs Technion-Cornell Institute at Cornell Tech was founded as a joint academic venture between Cornell University and the Technion-Israel Institute of Technology to be a locus of academic experimentation and innovative approaches to research, entrepreneurship and education. The Jacobs Institute emphasizes a transdisciplinary view of science and encourages translational research that ultimately serves the worldwide common good, through a set of industry-focused “hubs” that address contemporary social and economic need around which research and academic programs are centered.</div>
 
 # What is Urban Tech?
 Urban Tech is the emerging interdisciplinary study of how to make cities and urban spaces more connected, livable, and efficient. Urban Tech encompasses the following domains:  clean-tech and sustainability, co-living and co-working, community management technology, construction-tech, property-tech, energy and utilities, logistics and delivery, mobility and transportation, smart cities and gov-tech.
