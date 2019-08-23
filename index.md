@@ -2,6 +2,12 @@
 title: Urban Tech Hub
 ---
 
+<style>
+body {
+  border-left: thick solid #ff0000;
+}
+</style>
+
 Welcome.
 <img src="http://urbantech.cornelltech.io/hub-drawing.png" alt="urban tech hub drawing"/>
 
