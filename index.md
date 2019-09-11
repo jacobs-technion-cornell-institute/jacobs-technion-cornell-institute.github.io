@@ -12,7 +12,7 @@ body {
 
 {{ 'welcome' | upcase }}
 
-<img src="http://urbantech.cornelltech.io/hub-drawing.png" alt="urban tech hub drawing"/>
+<img src="https://urbantech.cornelltech.io/hub-drawing.png" alt="urban tech hub drawing"/>
 
 # About the Jacobs Technion-Cornell Institute at Cornell Tech
 The Jacobs Technion-Cornell Institute at Cornell Tech was founded as a joint academic venture between Cornell University and the Technion-Israel Institute of Technology to be a locus of academic experimentation and innovative approaches to research, entrepreneurship and education. The Jacobs Institute emphasizes a transdisciplinary view of science and encourages translational research that ultimately serves the worldwide common good, through a set of industry-focused “hubs” that address contemporary social and economic need around which research and academic programs are centered.
