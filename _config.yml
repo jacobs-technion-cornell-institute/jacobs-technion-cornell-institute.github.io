@@ -4,9 +4,12 @@ subtitle: at the Jacobs Technion-Cornell Institute
 url: "http://jacobs-technion-cornell-institute.github.io" # the base hostname & protocol for your site
 search: true
 plugins:
+  - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
   - jekyll-include-cache
- 
 
 include:
   - _pages
