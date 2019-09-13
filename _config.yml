@@ -11,6 +11,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+logo: assets/jacobs-logo-88x88.jpg
+
 include:
   - _pages
   
