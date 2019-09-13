@@ -1,10 +1,6 @@
 ---
-layout: archive
-permalink: /blog/
-title: "Recent Blog Posts"
-pagination: 
-  enabled: true
-  category: articles
+title: "Recent Posts by Year"
+permalink: /posts/
+layout: posts
+author_profile: true
 ---
-
-{% include posts-all.html %}
