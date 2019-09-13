@@ -7,5 +7,7 @@ main:
     url: /blog/
   - title: "Apply"
     url: https://apply.tech.cornell.edu
+  - title: "Resources"
+    url: resources
   - title: "About the Jacobs Institute"
     url: https://tech.cornell.edu/jacobs-technion-cornell-institute/
