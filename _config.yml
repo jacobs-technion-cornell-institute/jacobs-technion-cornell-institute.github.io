@@ -6,6 +6,10 @@ search: true
 plugins:
   - jekyll-sitemap
   - jekyll-include-cache
+ 
+
+include:
+  - _pages
   
 defaults:
   # _posts
