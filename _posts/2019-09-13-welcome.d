@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Welcome to the Urban Tech blog!"
+---
+
+This is the first post (hopefully of a long series).
+
+Right now, not much to say.
+
+But please stay tuned.
