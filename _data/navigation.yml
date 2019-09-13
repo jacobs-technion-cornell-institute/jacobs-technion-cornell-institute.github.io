@@ -2,10 +2,10 @@ main:
   - title: "Urban Tech"
     url: /
   - title: "Team"
-    url: #team
+    url: "/#team"
   - title: "Blog"
     url: /blog/
   - title: "Apply"
-    url: https://apply.tech.cornell.edu/
+    url: https://apply.tech.cornell.edu
   - title: "About the Jacobs Institute"
     url: https://tech.cornell.edu/jacobs-technion-cornell-institute/
