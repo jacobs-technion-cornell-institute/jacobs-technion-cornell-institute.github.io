@@ -5,4 +5,5 @@ title: &title "Blog Posts"
 alt_title: *title
 pagination: 
   enabled: true
+  category: articles
 ---
