@@ -1,5 +1,5 @@
 ---
-title: Urban Tech Hub
+title: ""
 ---
 
 <style>
