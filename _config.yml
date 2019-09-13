@@ -6,3 +6,16 @@ search: true
 plugins:
   - jekyll-sitemap
   - jekyll-include-cache
+  
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
