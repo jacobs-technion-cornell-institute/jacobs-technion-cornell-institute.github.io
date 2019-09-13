@@ -1,6 +1,6 @@
 ---
 title: "Recent Posts by Year"
-permalink: /posts/
+permalink: /blog/
 layout: posts
 author_profile: true
 ---
