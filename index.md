@@ -19,7 +19,8 @@ Our project-based, two-year curriculum centers on computer science and engineeri
 
 The program provides exceptional preparation for myriad career paths in academia, industry, and the public sector that require a deep understanding of technology and its profound impact on cities and urban spaces.
 
-<a href="http://apply.tech.cornell.edu">Apply here</a>.
+[Apply here](http://apply.tech.cornell.edu){: .btn .btn--danger .btn--large .text-center}
+
 
 # Team {#team}
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrGVliWT1g423ijc?backgroundColor=purple&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
