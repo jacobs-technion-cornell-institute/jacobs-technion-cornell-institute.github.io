@@ -7,3 +7,5 @@ pagination:
   enabled: true
   category: articles
 ---
+
+{% include posts-all.html %}
