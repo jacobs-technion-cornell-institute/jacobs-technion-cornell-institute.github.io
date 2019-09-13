@@ -1,0 +1,9 @@
+main:
+  - title: "About"
+    url: /
+  - title: "Jacobs Institute"
+    url: https://tech.cornell.edu/jacobs-technion-cornell-institute/
+  - title: "Urban Tech Blog"
+    url: /blog/
+  - title: "Apply"
+    url: https://apply.tech.cornell.edu/
