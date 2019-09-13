@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 permalink: /faqs/
 title: "Frequently asked questions"
 date: 2019-09-13
