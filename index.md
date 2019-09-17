@@ -25,6 +25,14 @@ The program provides exceptional preparation for myriad career paths in academia
 # Team {#team}
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrGVliWT1g423ijc?backgroundColor=purple&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
+<ul>
+{% for member in site.data.team %}
+  <li>
+      {{ member.name }} ({{ member.title }}
+  </li>
+{% endfor %}
+</ul>
+
 # Other Urban Tech Activities {#other}
 * [SMART CITIES NEW YORK (SCNY) conference](https://smartcitiesny.com), 13-15 May 2019.
 
