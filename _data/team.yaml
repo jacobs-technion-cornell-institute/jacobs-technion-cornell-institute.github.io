@@ -20,7 +20,7 @@
   last: Ju
   title: Assistant Professor
   affiliation: Cornell Tech
-  photo: Wendy_Ju.png
+  photo: assets/Wendy_Ju.png
   
 - name: Timur Dogan
   first: Tim
@@ -28,7 +28,7 @@
   title: Assistant Professor
   affiliation: Cornell AAP
   web: https://aap.cornell.edu/people/timur-dogan
-  photo: Timur_Dogan.png
+  photo: assets/Timur_Dogan.png
   
 - name: Mukti Khaire
   first: Mukti
@@ -36,7 +36,7 @@
   title: Professor of the Practice
   affiliation: Cornell
   web: https://tech.cornell.edu/people/mukti-khaire/
-  photo: Mukti_Khaire.png
+  photo: assets/Mukti_Khaire.png
   
 - name: Dan Lee
   first: Dan
@@ -44,7 +44,7 @@
   title: Professor
   affilition: Cornell Tech
   web: https://tech.cornell.edu/people/daniel-d-lee-2/
-  photo: Dan_Lee.png
+  photo: assets/Dan_Lee.png
   
 - name: David Shmoys
   first: David
@@ -52,7 +52,7 @@
   title: Professor
   affiliation: Cornell
   web: https://people.orie.cornell.edu/shmoys/
-  photo: David_Shmoys.png
+  photo: assets/David_Shmoys.png
 
 - name: Kieran Donaghy
   first: Kieran
@@ -60,7 +60,7 @@
   title: Professor
   affiliation: Cornell AAP
   web: https://aap.cornell.edu/people/kieran-donaghy
-  photo: Kieran_Donaghy.png
+  photo: assets/Kieran_Donaghy.png
   
 - name: Mike E. Bloomberg
   first: Michael
