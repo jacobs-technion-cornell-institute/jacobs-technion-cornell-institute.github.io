@@ -27,9 +27,9 @@ The program provides exceptional preparation for myriad career paths in academia
 
 {% assign sorted_team = site.data.team | sort:"last","first" %}
 <ul>
-{% for member in  sorted_team%}
+{% for member in sorted_team%}
   <li>
-      {{ member.name }} ({{ member.title }})
+      {{ member.name }} ({{ member.title }}) ![](/assets/member.photo){: .align-right}
   </li>
 {% endfor %}
 </ul>
