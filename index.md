@@ -9,8 +9,8 @@ title: ""
 # What is Urban Tech? {#what-is-urban-tech}
 Urban Tech is the emerging interdisciplinary study of how to make cities and urban spaces more connected, livable, and efficient. Urban Tech encompasses the following domains:  clean-tech and sustainability, co-living and co-working, community management technology, construction-tech, property-tech, energy and utilities, logistics and delivery, mobility and transportation, smart cities and gov-tech.
 
-# Technion-Cornell Dual Master’s Degree in Urban Tech {#ms-degree}
-Our technical, dual-degree program educates a new generation of software engineers, product managers, planners, decision-makers, etc. to realize the full utility of urban tech.
+# Dual Master’s Degree in Urban Tech {#ms-degree}
+Our Technion-Cornell technical dual-degree program educates a new generation of software engineers, product managers, planners, decision-makers, etc. to realize the full utility of urban tech.
 
 Our project-based, two-year curriculum centers on computer science and engineering and also draws on the disciplines of economics, sociology, entrepreneurship, and design.
 
@@ -26,7 +26,8 @@ The program provides exceptional preparation for myriad career paths in academia
 - {{ member.name }} ({{ member.title }}) ![]({{member.photo}}){: .align-right}
 {% endfor %}
 
-# Recent Urban Tech Activities {#other}
+# Recent Urban Tech Hub Activities {#other}
+
 * [The Future of the MTA conference](), 20 September 2019.
 
 * [SMART CITIES NEW YORK (SCNY) conference](https://smartcitiesny.com), 13-15 May 2019.
