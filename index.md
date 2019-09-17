@@ -23,11 +23,11 @@ The program provides exceptional preparation for myriad career paths in academia
 
 {% assign sorted_team = site.data.team | sort:"last","first" %}
 {% for member in sorted_team %}
-- {{ member.name }} ({{ member.title }}) ![](/assets/{{member.photo}}){: .align-right}
+- {{ member.name }} ({{ member.title }}) ![]({{member.photo}}){: .align-right}
 {% endfor %}
 
-# Other Urban Tech Activities {#other}
-* [SMART CITIES NEW YORK (SCNY) conference](https://smartcitiesny.com), 13-15 May 2019.
-
-SCNY is North America's leading global conference for innovators and decision-makers who are improving life in the cities of tomorrow.
+# Recent Urban Tech Activities {#other}
 * [The Future of the MTA conference](), 20 September 2019.
+
+* [SMART CITIES NEW YORK (SCNY) conference](https://smartcitiesny.com), 13-15 May 2019.
+SCNY is North America's leading global conference for innovators and decision-makers who are improving life in the cities of tomorrow.
