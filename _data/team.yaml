@@ -1,6 +1,60 @@
 - name: Ron Brachman
+  first: Ron
+  last: Brachman
   title: Director of the Jacobs Institute
+  affiliation: Cornell Tech
+  web: https://tech.cornell.edu/people/ron-brachman/
+  linkedin: https://www.linkedin.com/in/ron-brachman-9195764
+
 - name: Arnaud Sahuguet
+  first: Arnaud
+  last: Sahuguet
   title: Project lead for the Urban Tech hub
+  affiliation: Cornell Tech
+  web: https://sahuguet.github.io/
+  
 - name: Wendy Ju
+  first: Wendy
+  last: Ju
   title: Assistant Professor
+  affiliation: Cornell Tech
+  
+- name: Timur Dogan
+  first: Tim
+  last: Dogan
+  title: Assistant Professor
+  affiliation: Cornell AAP
+  web: https://aap.cornell.edu/people/timur-dogan
+  
+- name: Mukti Khaire
+  first: Mukti
+  last: Khaire
+  title: Professor of the Practice
+  affiliation: Cornell
+  web: https://tech.cornell.edu/people/mukti-khaire/
+  
+- name: Dan Lee
+  first: Dan
+  last: Lee
+  title: Professor
+  affilition: Cornell Tech
+  web: https://tech.cornell.edu/people/daniel-d-lee-2/
+  
+- name: David Shmoys
+  first: David
+  last: Shmoys
+  title: Professor
+  affiliation: Cornell
+  web: https://people.orie.cornell.edu/shmoys/
+
+- name: Kieran Donaghy
+  first: Kieran
+  last: Donaghy
+  title: Professor
+  affiliation: Cornell AAP
+  web: https://aap.cornell.edu/people/kieran-donaghy
+  
+- name: Mike E. Bloomberg
+  first: Michael
+  last: Bloomberg
+  title: Researcher
