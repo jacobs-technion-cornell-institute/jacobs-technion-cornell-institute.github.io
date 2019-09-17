@@ -25,10 +25,11 @@ The program provides exceptional preparation for myriad career paths in academia
 # Team {#team}
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrGVliWT1g423ijc?backgroundColor=purple&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
+{% assign sorted_team = site.data.team | sort:"last","first" %}
 <ul>
-{% for member in site.data.team %}
+{% for member in  sorted_team%}
   <li>
-      {{ member.name }} ({{ member.title }}
+      {{ member.name }} ({{ member.title }})
   </li>
 {% endfor %}
 </ul>
