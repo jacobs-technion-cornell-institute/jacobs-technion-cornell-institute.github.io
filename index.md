@@ -26,6 +26,12 @@ The program provides exceptional preparation for myriad career paths in academia
 - ![]({{member.photo}}){: style="border-radius:50%;"} {{ member.name }} ({{ member.title }}) 
 {% endfor %}
 
+| f | f |   |
+|:-:|--:|--:|
+{% for member in sorted_team %}
+|  ![]({{member.photo}}){: style="border-radius:50%;"} |  {{ member.name }} | ({{ member.title }}) |
+{% endfor %}
+
 # Recent Urban Tech Hub Activities {#other}
 
 * [The Future of the MTA conference](), 20 September 2019.
