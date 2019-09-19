@@ -29,7 +29,7 @@ footer:
       url: https://tinyletter.com/urbantech
     - label: "Contact us"
       icon: "far fa-fw fa-paper-plane"
-      url: maito:urbantech-hub@jacobs.cornell.edu
+      url: maito:urbantech-hub@cornelltech.io
 
 defaults:
   # _posts
