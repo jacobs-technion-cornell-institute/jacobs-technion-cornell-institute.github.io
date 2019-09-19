@@ -27,10 +27,8 @@ The program provides exceptional preparation for myriad career paths in academia
 {% endfor %}
 
 |   | Name | Title  |
-|:-:|--:|--:|
-{% for member in sorted_team -%}
-|  ![]({{member.photo}}){: style="border-radius:50%;"} |  {{ member.name }} | ({{ member.title }}) |
-{%- endfor %}
+|:-:|--:|--:|{% for member in sorted_team %}
+| ![]({{member.photo}}){: style="border-radius:50%;"} |  {{ member.name }} | ({{ member.title }}) |{% endfor %}
 
 # Recent Urban Tech Hub Activities {#other}
 
