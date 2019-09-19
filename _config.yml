@@ -15,7 +15,16 @@ logo: assets/jacobs-logo-88x88.jpg
 
 include:
   - _pages
-  
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: https://twitter.com/ny_jacobs
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/jacobs-technion-cornell-institute
+
 defaults:
   # _posts
   - scope:
