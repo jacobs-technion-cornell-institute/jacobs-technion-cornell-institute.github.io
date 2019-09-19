@@ -24,7 +24,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/jacobs-technion-cornell-institute
-    - label: "Newsletter"
+    - label: "Subscribe"
       icon: "fas fa-fw fa-envelope"
       url: https://tinyletter.com/urbantech
     - label: "Contact us"
