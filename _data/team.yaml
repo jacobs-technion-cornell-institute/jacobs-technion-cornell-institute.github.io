@@ -12,6 +12,7 @@
   last: Sahuguet
   title: Project lead
   affiliation: Cornell Tech
+  linkedin: https://www.linkedin.com/in/sahuguet
   web: https://sahuguet.github.io/
   photo: assets/Arnaud_Sahuguet.png
   
@@ -21,6 +22,8 @@
   title: Assistant Professor
   affiliation: Cornell Tech
   photo: assets/Wendy_Ju.png
+  web: https://tech.cornell.edu/people/wendy-ju/
+  linkedin: https://www.linkedin.com/in/wendyju/
   
 - name: Timur Dogan
   first: Tim
@@ -28,6 +31,7 @@
   title: Assistant Professor
   affiliation: Cornell AAP
   web: https://aap.cornell.edu/people/timur-dogan
+  linkedin: https://www.linkedin.com/in/timur-dogan-b28340a9/
   photo: assets/Timur_Dogan.png
   
 - name: Mukti Khaire
@@ -44,6 +48,7 @@
   title: Professor
   affilition: Cornell Tech
   web: https://tech.cornell.edu/people/daniel-d-lee-2/
+  linkedin: https://www.linkedin.com/in/daniel-lee-2813389/
   photo: assets/Daniel_Lee.png
   
 - name: David Shmoys
@@ -52,6 +57,7 @@
   title: Professor
   affiliation: Cornell
   web: https://people.orie.cornell.edu/shmoys/
+  linkedin: https://www.linkedin.com/in/david-shmoys-683a6a52/
   photo: assets/David_Shmoys.png
 
 - name: Kieran Donaghy
@@ -60,6 +66,7 @@
   title: Professor
   affiliation: Cornell AAP
   web: https://aap.cornell.edu/people/kieran-donaghy
+  linkedin: https://www.linkedin.com/in/kieran-donaghy-3a12863b/
   photo: assets/Kieran_Donaghy.png
   
 - name: Mike E. Bloomberg
@@ -67,3 +74,4 @@
   last: Bloomberg
   title: Researcher
   photo: assets/Mike_E_Bloomberg.png
+  linkedin: https://www.linkedin.com/in/bloombergmike/
