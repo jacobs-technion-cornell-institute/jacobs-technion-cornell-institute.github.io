@@ -6,7 +6,7 @@ title: ""
 
 <img2 src="hub-drawing.png" alt="urban tech hub drawing"/>
 
-<img src="/assets/CRT_engineering_image.png" alt="Cornell Tech campus"/>
+<img src="assets/CRT_engineering_image.png" alt="Cornell Tech campus"/>
 
 # What is Urban Tech? {#what-is-urban-tech}
 Urban Tech is the emerging interdisciplinary study of how to make cities and urban spaces more connected, livable, and efficient. Urban Tech encompasses the following domains:  clean-tech and sustainability, co-living and co-working, community management technology, construction-tech, property-tech, energy and utilities, logistics and delivery, mobility and transportation, smart cities and gov-tech.
