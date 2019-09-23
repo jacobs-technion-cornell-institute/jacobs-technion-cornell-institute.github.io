@@ -2,7 +2,7 @@ main:
   - title: "Urban Tech"
     url: /
   - title: "Team"
-    url: "/#team"
+    url: "/team"
   - title: "Blog"
     url: /blog/
   - title: "Apply"
