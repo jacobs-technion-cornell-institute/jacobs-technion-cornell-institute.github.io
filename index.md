@@ -23,7 +23,9 @@ The program provides exceptional preparation for myriad career paths in academia
 
 # Recent Urban Tech Hub Activities {#other}
 
-* [The Future of the MTA conference](), 20 September 2019.
+[The Future of the MTA conference](), 20 September 2019.
+: The one-day event brings together leaders in technology, transportation-related industries, and academia to discuss innovative solutions that will drive the future of the Metropolitan Transportation Authority. 
+{% include video id="OqlHAvj_qEs" provider="youtube" %}
 
-* [SMART CITIES NEW YORK (SCNY) conference](https://smartcitiesny.com), 13-15 May 2019.
-SCNY is North America's leading global conference for innovators and decision-makers who are improving life in the cities of tomorrow.
+[SMART CITIES NEW YORK (SCNY) conference](https://smartcitiesny.com), 13-15 May 2019.
+: SCNY is North America's leading global conference for innovators and decision-makers who are improving life in the cities of tomorrow.
