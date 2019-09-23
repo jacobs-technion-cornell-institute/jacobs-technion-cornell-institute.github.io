@@ -16,6 +16,12 @@ logo: assets/jacobs-logo-88x88.jpg
 include:
   - _pages
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-148497040-1"
+    anonymize_ip: false # default
+
 footer:
   links:
     - label: "Twitter"
