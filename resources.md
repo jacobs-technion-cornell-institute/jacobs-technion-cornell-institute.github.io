@@ -9,7 +9,7 @@ Here are some useful resources.
 * [Smart Cities Connect](https://spring.smartcitiesconnect.org), Denver, CO; April 6-9, 2020.
 * [CoMotion >> LA](https://comotionla.com), Los Angeles, CA; November 14-15 2019. 
 * [Smart City Expo World Congress](http://www.smartcityexpo.com), Barcelona; November 19-21  2019.
-* [City Lab | DC](http://citylab2019.theatlantic.com/), Washington, DC; October 27–29, 2019.
+* [City Lab DC](http://citylab2019.theatlantic.com/), Washington, DC; October 27–29, 2019.
 * [Smart City Expo Atlanta](https://smartcityexpoatlanta.com), Atlanta, GA; September 11-13 2019.
 
 ## Podcasts
