@@ -23,7 +23,7 @@ The program provides exceptional preparation for myriad career paths in academia
 
 # Recent Urban Tech Hub Activities {#other}
 
-[The Future of the MTA conference](), 20 September 2019.
+[New Day at the MTA conference](), 20 September 2019.
 : The one-day event brings together leaders in technology, transportation-related industries, and academia to discuss innovative solutions that will drive the future of the Metropolitan Transportation Authority. 
 {% include video id="OqlHAvj_qEs" provider="youtube" %}
 
