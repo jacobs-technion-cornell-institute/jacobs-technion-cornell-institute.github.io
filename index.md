@@ -18,7 +18,9 @@ Our project-based, two-year curriculum centers on computer science and engineeri
 
 The program provides exceptional preparation for myriad career paths in academia, industry, and the public sector that require a deep understanding of technology and its profound impact on cities and urban spaces.
 
-[Apply here](http://apply.tech.cornell.edu){: .btn .btn--danger .btn--large .text-center}
+[Learn More](https://www.tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-urban-tech/){: .btn .btn--success .btn--large .text-center}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Apply](http://apply.tech.cornell.edu){: .btn .btn--danger .btn--large .text-center}
 
 
 # Recent Urban Tech Hub Activities {#other}
