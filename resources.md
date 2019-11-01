@@ -5,6 +5,17 @@ title: Urban Tech Resources
 
 Here are some useful resources.
 
+## Topics of interest (work in progress)
+* [Cybersecurity & Cities](/cyber)
+* [Mobility & Transportation](/mobility)
+* Urban Data
+* Disaster Recovery & Resilience
+* Sustainability
+* Urban Economics & Finances
+* Housing
+* Land use
+* Privacy
+
 ## Upcoming Events
 * [Smart Cities Connect](https://spring.smartcitiesconnect.org), Denver, CO; April 6-9, 2020.
 * [CoMotion >> LA](https://comotionla.com), Los Angeles, CA; November 14-15 2019. 
