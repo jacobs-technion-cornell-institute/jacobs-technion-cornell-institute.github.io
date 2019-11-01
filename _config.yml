@@ -1,8 +1,12 @@
 remote_theme: "mmistakes/minimal-mistakes@4.16.6"
 title: Urban Tech Hub 
 subtitle: at the Jacobs Technion-Cornell Institute
-url: "http://jacobs-technion-cornell-institute.github.io" # the base hostname & protocol for your site
+url: "https://urbantech.jacobs.cornell.edu" # the base hostname & protocol for your site
+
 search: true
+
+repository: "jacobs-technion-cornell-institute/jacobs-technion-cornell-institute.github.io"
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
