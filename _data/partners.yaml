@@ -1,0 +1,52 @@
+
+- name: Cornell Tech Digital Life Initiative
+  url: https://www.dli.tech.cornell.edu/
+  tag: cornell
+
+- name: Cornell Program for Infrastructure Policy (CPIP)
+  url: https://www.human.cornell.edu/pam/research/cpip/home
+  tag: cornell
+
+- name: Cornell Atkinson Center for Sustainability
+  url: https://www.atkinson.cornell.edu/
+  tag: cornell
+
+- name: Cornell Center for Transportation, Environment, and Community Health (CTECH)
+  url: http://ctech.cee.cornell.edu/
+  tag: cornell
+
+- name: 'K. Lisa Yang and Hock E. Tan Institute on Employment and Disability (YTI)'
+  url: https://www.yti.cornell.edu/
+  tag: cornell
+
+- name: Transportation Research Institute (TRI)
+  url: https://tri.technion.ac.il/en/
+  tag: technion
+
+- name: Technion Autonomous System Program (TASP)
+  url: http://tasp.technion.ac.il/en/
+  tag: technion
+
+- name: Grand Technion Energy Program
+  url: https://gtep.technion.ac.il/
+  tag: technion
+
+- name: Hiroshi Fujiwara Cyber Security Research Center
+  url: http://cyber.technion.ac.il/
+  tag: technion
+
+- name: Bernard M.Gordon Center for System Engineering
+  url: https://gordon-se.technion.ac.il/
+  tag: technion
+
+- name: Center for urban and regional research
+  url: https://curs.net.technion.ac.il/en/
+  tag: technion
+
+- name: Enterprise Systems Modeling Laboratory
+  url: http://esml.iem.technion.ac.il/
+  tag: technion
+
+- name: The Samuel Neaman Institute for National Policy Research
+  url: https://www.dunsguide.co.il/en/C2bc450fd8da3f7ec068f584913e9f174_research_rd/the_samuel_neaman_institute_for_national_policy_research_cc/
+  tag: technion

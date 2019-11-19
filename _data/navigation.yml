@@ -7,6 +7,8 @@ main:
     url: /blog/
   - title: "Apply"
     url: https://apply.tech.cornell.edu
+  - title: "Research"
+    url: research
   - title: "Resources"
     url: resources
   - title: "About the Jacobs Institute"
