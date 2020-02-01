@@ -9,6 +9,8 @@ main:
     url: https://apply.tech.cornell.edu
   - title: "Research"
     url: research
+  - title: "Forum"
+    url: https://urbantech-forum.cornelltech.io/
   - title: "Resources"
     url: resources
   - title: "About the Jacobs Institute"
