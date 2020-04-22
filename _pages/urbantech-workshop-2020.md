@@ -11,14 +11,14 @@ The hub will combine both academic and research activities and will also engage 
 To help us shape the hub and identify themes or focus areas, we are convening a a two-day workshop with thought leaders in this space to present their latest research and discuss pressing challenges.
 
 # People/community/data in cities
-* [Helen Nissenbaum](https://nissenbaum.tech.cornell.edu/) (Cornell) – Moderator
+* [Helen Nissenbaum](https://nissenbaum.tech.cornell.edu/) (Cornell Tech) – Moderator
 * [Ellen P. Goodman](https://law.rutgers.edu/directory/view/1020) (Rutgers) – Panelist
 * [Eric Kober](https://www.linkedin.com/in/eric-kober-178b7480/) (Manhattan Institute for Policy Research) – Panelist
 * [Laura Kurgan](https://www.arch.columbia.edu/faculty/195-laura-kurgan) (Columbia) – Panelist
 * [Eran Toch](https://english.tau.ac.il/profile/erant) (Tel-Aviv University) – Panelist
 
 # Urban Tech Innovation
-* [Michael Samuelian](https://www.linkedin.com/in/msamuelian/) (Cornell) – Moderator
+* [Michael Samuelian](https://www.linkedin.com/in/msamuelian/) (Cornell Tech) – Moderator
 * [Kate Daly](https://www.closedlooppartners.com/team-members/kate-daly/) (Closed Loop Partners) – Panelist
 * [Shaun Abrahamson](https://urban.us/about-us/shaun-abrahamson/) (UrbanUs) – Panelist
 * [Anthony Townsend](https://www.linkedin.com/in/townsendanthony) (Star City Group) – Panelist
