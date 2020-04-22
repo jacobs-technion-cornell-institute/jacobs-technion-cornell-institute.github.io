@@ -13,8 +13,9 @@ To help us shape the hub and identify themes or focus areas, we are convening a 
 # People/community/data in cities
 * [Helen Nissenbaum](https://nissenbaum.tech.cornell.edu/) (Cornell) – Moderator
 * [Ellen P. Goodman](https://law.rutgers.edu/directory/view/1020) (Rutgers) – Panelist
+* [Eric Kober](https://www.linkedin.com/in/eric-kober-178b7480/) (Manhattan Institute for Policy Research) – Panelist
 * [Laura Kurgan](https://www.arch.columbia.edu/faculty/195-laura-kurgan) (Columbia) – Panelist
-* [Constantine Kontokosta](https://engineering.nyu.edu/faculty/constantine-kontokosta) (NYU) – Panelist
+* [Eran Toch](https://english.tau.ac.il/profile/erant) (Tel-Aviv University) – Panelist
 
 # Urban Tech Innovation
 * [Michael Samuelian](https://www.linkedin.com/in/msamuelian/) (Cornell) – Moderator
